@@ -1,4 +1,5 @@
 #Hospital Management System
+
 Technologies Used: JSP, CSS, W3.CSS, jQuery, Spring, Hibernate, JSTL
 
 The Hospital Management System is a comprehensive web application designed to streamline hospital operations. The system supports three types of users: Admin, Doctors, and Patients, each with specific functionalities.
